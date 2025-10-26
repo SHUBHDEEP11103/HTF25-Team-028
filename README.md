@@ -150,17 +150,14 @@ You can make predictions directly from the terminal using:
 ```bash
 python predict_newData.py
  
+```
  
  
  
  
  
  
- 
- 
- 
- 
- # HTF25-Team-028
+# HTF25-Team-028
 
 ## GitHub submission guide
 
