@@ -498,4 +498,3 @@ def predict_new_asteroid(features_dict):
 
 print("\n💡 To make predictions on new asteroids, use:")
 print("   predict_new_asteroid({'Relative Velocity km per sec': 30000, ...})")
-print("\n✨ Good luck with your hackathon!")
